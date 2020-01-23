@@ -1,0 +1,10 @@
+C:\Users\ww\source\repos\CDS\CDS\obj\Debug\CDS.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\CDS\CDS\obj\Debug\CDS.csprojAssemblyReference.cache
+C:\Users\ww\source\repos\CDS\CDS\bin\Debug\CDS.exe.config
+C:\Users\ww\source\repos\CDS\CDS\bin\Debug\CDS.exe
+C:\Users\ww\source\repos\CDS\CDS\bin\Debug\CDS.pdb
+C:\Users\ww\source\repos\CDS\CDS\bin\Debug\Library.dll
+C:\Users\ww\source\repos\CDS\CDS\bin\Debug\Library.pdb
+C:\Users\ww\source\repos\CDS\CDS\obj\Debug\CDS.csproj.CopyComplete
+C:\Users\ww\source\repos\CDS\CDS\obj\Debug\CDS.exe
+C:\Users\ww\source\repos\CDS\CDS\obj\Debug\CDS.pdb

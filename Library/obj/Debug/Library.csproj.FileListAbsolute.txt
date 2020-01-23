@@ -1,0 +1,6 @@
+C:\Users\ww\source\repos\CDS\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\ww\source\repos\CDS\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\CDS\Library\bin\Debug\Library.dll
+C:\Users\ww\source\repos\CDS\Library\bin\Debug\Library.pdb
+C:\Users\ww\source\repos\CDS\Library\obj\Debug\Library.dll
+C:\Users\ww\source\repos\CDS\Library\obj\Debug\Library.pdb
